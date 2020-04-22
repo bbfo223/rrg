@@ -4,7 +4,7 @@ Kentucky's Red River Gorge National Geological Area
 
 ## A Base map of Arches
 
-[Download a GeoPDF of Arches](basemap/rrg-arches.pdf)  
+[Download a GeoPDF of Arches](basemap/rrg.pdf)  
 
 ![Double Arch Trail Leading Up](AuxierRidgeDoubleArchTrail.JPG)*View of Double Arch from the trail leading up* photo by Brandon Foley (2017)
 
